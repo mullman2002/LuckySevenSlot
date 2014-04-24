@@ -99,5 +99,4 @@ public class LuckySevenSlot {
 		this.hasWon = hasWon;
 	}
 
-	public int 
 }
